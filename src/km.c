@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-#include <stdio.h>
 
 int main (){
     float km_inicial, km_final, tempo_inicial, tempo_final, distancia,tempo, velocidade_media;
