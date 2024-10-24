@@ -7,7 +7,7 @@ int main() {
     printf("Digite o Salário Total: ");
     scanf("%f", &bruto);
 
-    // Cdescontos
+    // descontos
     transporte = bruto * 0.06; // 6% de vale transporte
     inss = bruto * 0.07;        // 7% de inss
     fgts = bruto * 0.08;        // 8% de fgts
