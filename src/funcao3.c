@@ -1,5 +1,7 @@
 #include <stdio.h>
-#include "calculos.h"
+/*o comando ../ faz a saida da pasta atual src*/
+/*lib pe a pasta onde esta o arquivo de cabeçalho calculo.h*/
+#include "../lib/calculos.h"
 
 int main(){
     int valores[] = {10,20,30.40,50,60,70}; /*oitos numeros*/
