@@ -13,7 +13,7 @@ int main (){
     int a = 10;
     int b = 20;
     dados (a,b);
-    
+    printf("A está em %p e B está em %p\n",&a,&b);
     
 
 
